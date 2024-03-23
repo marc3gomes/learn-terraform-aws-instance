@@ -33,7 +33,7 @@ O curso é dividido em várias seções, cobrindo os seguintes tópicos:
     cd learn-terraform-aws-instance
 ```
 
-3. Explore os diferentes diretórios e arquivos que acompanham as aulas do curso.
+3. Explore os diferentes diretórios e arquivos que acompanham as aulas do curso. [LINK DO CURSO](https://cursos.alura.com.br/course/infraestrutura-codigo-maquinas-aws-ansible-terraform)
 
 4. Siga as instruções detalhadas fornecidas em cada aula para configurar, provisionar e gerenciar a infraestrutura na AWS usando Ansible e Terraform.
 
